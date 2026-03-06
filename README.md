@@ -9,6 +9,8 @@ PURPOSE:
 This project was developed as part of the BTech Computer Technology (BTCT 2B) coursework at KsTU.
 
 ## KEY FEATURES:
+- **index.html** : The Welcome(landing) page of the project.
+  
 - **index.php** : The first welcome page to ensure registration and login.
 
 - **register.php** : This is where the user register to save user data in the session.
