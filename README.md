@@ -48,6 +48,6 @@ This project was developed as part of the BTech Computer Technology (BTCT 2B) co
 
 Visit the **About Us** page to see group member information.
 
-This project was successfully uploaded to **GitHub** by **Btech2bgroup3 - Backend** which can be viewed to discover the full details using the organization name mentioned above. 
+This project was successfully uploaded to **GitHub** by **Btech2BGroup3 - Backend** which can be viewed to discover the full details using the organization name mentioned above. 
 
 
